@@ -2,14 +2,14 @@
 <html lang='en'>
 
 <head>
-    <base href=".">
+    <base href="..">
     <link rel="shortcut icon" type="image/png" href="assets/favicon.png"/>
     <link rel="stylesheet" type="text/css" media="all" href="assets/main.css"/>
     <meta name="description" content="Conference Template">
     <meta name="resource-type" content="document">
     <meta name="distribution" content="global">
     <meta name="KeyWords" content="Conference">
-    <title>Համահայկական գիտաժողով</title>
+    <title>Կենսաբանություն ֊ Գիտ․ Խորհուրդ</title>
 
 
 <style>
@@ -51,7 +51,7 @@
 		    <i class="fa fa-caret-down"></i>
 		  </button>
 		  <div class="dropdown-content">
-		    <a href="physics">Ֆիզիկական</a>
+		    <a href="committee/physics">Ֆիզիկական</a>
 		    <a href="biology">Կենսաբանական</a>
 		    <a href="material">Նյութաբանական</a>
 		    <a href="material">Հումանիտար</a>
@@ -62,40 +62,25 @@
         </tr>
     </table>
 
-    <h2>Գիտաժողովի մասին</h2>
-    <p>
-       Թեմատիկ ուղղություններ
-    </p>
-    <p>
-        Ոչ
-        <a target="_blank" href="https://github.com/mikepierce/conference-website-template">GitHub repo here</a>.
-
-    <h2>Կազմակերպիչներ</h2>
-    <p>
-       լոգո
-    </p>
-    <table class="sponsors">
-        <tr>
-            <td class="sponsor">
-                <a href="http://www.eyebleach.me/">
-                    <img src="assets/kitten1.jpg" alt="First Sponsor Name">
-                </a>
-            </td>
-            <td class="sponsor">
-                <a href="http://www.eyebleach.me/">
-                    <img src="assets/kitten2.jpg" alt="Second Sponsor Name" style="width: 80%">
-                </a>
-            </td>
-            <td class="sponsor">
-                <a href="http://www.eyebleach.me/">
-                    <img src="assets/kitten3.jpg" alt="Third Sponsor Name">
-                </a>
-            </td>
-        </tr>
-    </table>
-
    
-     <footer>
+
+    <h2>Կենսաբանություն - Գիտական կոմիտե</h2>
+    <p>
+       <ul>
+	 <li>Միքայել Խանբեկյան</li>
+	 <li>Աստցիկ Պեպոյան</li>
+	 <li>Աշխեն Հովհաննիսյան</li>
+	 <li>Կարինե Մայիլյան</li>
+	 <li>Նաիրա Սահակյան</li>
+	 <li>Մարինե Առաքելյան</li>
+	 <li>Արթուր Համբարձումյան</li>
+	 <li>Աննա Փոլադյան</li>
+	 <li>Գրիգոր Առաքելով</li>
+       </ul>  
+    </p>
+   
+
+    <footer>
       <p style="font-size: 9px">
         &copy; Գիտության կոմիտե
         &nbsp;|&nbsp; <small> Design by <a href="https://github.com/mikepierce">Mike Pierce</a></small>
