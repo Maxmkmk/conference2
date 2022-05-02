@@ -9,8 +9,9 @@
     <meta name="resource-type" content="document">
     <meta name="distribution" content="global">
     <meta name="KeyWords" content="Conference">
-    <title>Նյութաբանություն ֊ Գիտ․ կոմիտե</title>
-    <meta charset="utf-8"/>
+    <meta content="text/html;charset=utf-8" http-equiv="Content-Type">
+    <meta content="utf-8" http-equiv="encoding">
+    <title>Համահայկական գիտաժողով - գրանցում</title>
 
 
 <style>
@@ -27,7 +28,7 @@
             <span class="title1">Համահայկական</span> <span class="title2">գիտաժողով</span> <span class="year">2022</span>
         </div>
         <div class="bottom-right">
-            Սեպտեմբերի 22, 2022 <br> Վանաձոր
+            Սեպտեմբերի 20, 2022 <br> Վանաձոր
         </div>
     </div>
 
@@ -37,7 +38,7 @@
                 <a title="Conference Home Page" href=".">Սկիզբ</a>
             </td>
             <td class="navigation">
-                <a title="Register for the Conference" href="registration">Գրանցում</a>
+                <a class="current" title="Register for the Conference" href="registration">Գրանցում</a>
             </td>
             <td class="navigation">
                 <a title="Conference Program" href="program">Ծրագիր</a> 
@@ -54,7 +55,7 @@
 		  <div class="dropdown-content">
 		    <a href="physics">Ֆիզիկական</a>
 		    <a href="biology">Կենսաբանական</a>
-		    <a class="current" href="material">Նյութաբանական</a>
+		    <a href="material">Նյութաբանական</a>
 		    <a href="material">Հումանիտար</a>
 		    <a href="material">Կազմկոմիտե</a>
 		  </div>
@@ -63,22 +64,19 @@
         </tr>
     </table>
 
-   
-
-    <h2>Նյութաբանություն - Գիտական կոմիտե</h2>
+    <h2>Գրանցում</h2>
     <p>
-       <ul>
-	 <li>Արամ Պետրոսյան</li>
-	 <li>Արփինե Հարությունյան</li>
-	 <li>Հեղինե Ղազոյան</li>
-	 <li>Լևոն Թավադյան</li>
-       </ul>  
-    </p>
+        
+        <a target="_blank" href="https://forms.gle/WyNdv1rdAfEaVPrbA">Գրանցվել այստեղ</a>.
+
    
 
-    <footer>
+   
+     <footer>
       <p style="font-size: 9px">
         &copy; Գիտության կոմիտե
+	</p>
+	<p style="font-size: 6px">
         &nbsp;|&nbsp; <small> Design by <a href="https://github.com/mikepierce">Mike Pierce</a></small>
 	</p>
     </footer>

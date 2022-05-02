@@ -9,7 +9,8 @@
     <meta name="resource-type" content="document">
     <meta name="distribution" content="global">
     <meta name="KeyWords" content="Conference">
-    <title>Ֆիզիկա ֊ Գիտ․ Խորհուրդ</title>
+    <title>Կենսաբանություն ֊ Գիտ․ կոմիտե</title>
+    <meta charset="utf-8"/>
 
 
 <style>
@@ -33,7 +34,7 @@
     <table class="navigation">
         <tr>
             <td class="navigation">
-                <a class="current" title="Conference Home Page" href=".">Սկիզբ</a>
+                <a title="Conference Home Page" href=".">Սկիզբ</a>
             </td>
             <td class="navigation">
                 <a title="Register for the Conference" href="registration">Գրանցում</a>
@@ -51,8 +52,8 @@
 		    <i class="fa fa-caret-down"></i>
 		  </button>
 		  <div class="dropdown-content">
-		    <a href="committee/physics">Ֆիզիկական</a>
-		    <a href="biology">Կենսաբանական</a>
+		    <a href="physics">Ֆիզիկական</a>
+		    <a class="current" href="biology">Կենսաբանական</a>
 		    <a href="material">Նյութաբանական</a>
 		    <a href="material">Հումանիտար</a>
 		    <a href="material">Կազմկոմիտե</a>
@@ -64,21 +65,17 @@
 
    
 
-    <h2>Ֆիզիկա - Գիտական կոմիտե</h2>
+    <h2>Կենսաբանություն - Գիտական կոմիտե</h2>
     <p>
        <ul>
-	 <li>Միքայել Խանբեկյան</li>
-	 <li>Արա Սեդրակյան</li>
-	 <li>Արամ Սահարյան</li>
-	 <li>Արմեն Ալլահվերդյան</li>
-	 <li>Պավել Մուժիկյան</li>
-	 <li>Պայծառ Մանթաշյան</li>
-	 <li>Արշակ Վարդանյան</li>
-	 <li>Հրաչ Ասատրյան</li>
-	 <li>Հրաչյա Բաբուջյան</li>
-	 <li>Վահագ Ղուկասյան</li>
-	 <li>Լևոն Գրիգորյան</li>
-	 <li>Մարտին Գրիգորյան</li>
+	 <li>Աստցիկ Պեպոյան</li>
+	 <li>Աշխեն Հովհաննիսյան</li>
+	 <li>Կարինե Մայիլյան</li>
+	 <li>Նաիրա Սահակյան</li>
+	 <li>Մարինե Առաքելյան</li>
+	 <li>Արթուր Համբարձումյան</li>
+	 <li>Աննա Փոլադյան</li>
+	 <li>Գրիգոր Առաքելով</li>
        </ul>  
     </p>
    

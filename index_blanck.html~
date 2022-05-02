@@ -9,6 +9,8 @@
     <meta name="resource-type" content="document">
     <meta name="distribution" content="global">
     <meta name="KeyWords" content="Conference">
+    <meta content="text/html;charset=utf-8" http-equiv="Content-Type">
+    <meta content="utf-8" http-equiv="encoding">
     <title>Համահայկական գիտաժողով</title>
 
 
@@ -76,9 +78,10 @@
 
     <h2>
       <!--
-	  Գիտաժողովի մասին</h2>
+	  Գիտաժողովի մասին
 	  -->
-	  <p>
+   </h2>
+   <p>
       <!--
        Թեմատիկ ուղղություններ
 	  -->

@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html lang='hy'>
 
-<head>
-    <base href=".">
+  <head>
+    <base href="..">
     <link rel="shortcut icon" type="image/png" href="assets/favicon.png"/>
     <link rel="stylesheet" type="text/css" media="all" href="assets/main.css"/>
     <meta name="description" content="Conference Template">
@@ -28,7 +28,7 @@
             <span class="title1">Համահայկական</span> <span class="title2">գիտաժողովs</span> <span class="year">2022</span>
         </div>
         <div class="bottom-right">
-            Սեպտեմբերի 22, 2022 <br> Վանաձոր
+            Սեպտեմբերի 20, 2022 <br> Վանաձոր
         </div>
     </div>
 
@@ -42,7 +42,7 @@
             </td>
             <td class="navigation">
            <!--   <a title="Conference Program" href="program">Ծրագիր</a>
--->
+--> 
 	       <div class="dropdown">
 		  <button class="dropbtn">Ծրագիր
 		    <i class="fa fa-caret-down"></i>
@@ -78,10 +78,9 @@
 
     <h2>
       <!--
-	  Գիտաժողովի մասին
-	  -->
-   </h2>
-   <p>
+	  Գիտաժողովի մասին-->
+    </h2>
+	  <p>
       <!--
        Թեմատիկ ուղղություններ
 	  -->
@@ -93,8 +92,8 @@
 	-->
     </h2>
     <p>
-     <!--  լոգո
-	-->	   
+     <!--  լոգո       -->
+      Գիտաժողովը տեղի կունենա Վանաձորի տեխնոլոգիական կենտրոնում, Շինարարների 12 հասցեով:
     </p>
       <!-- 
     <table class="sponsors">
@@ -117,7 +116,8 @@
         </tr>
     </table>
 	-->
-   
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1510.2106753847283!2d44.52027508305363!3d40.79673658554065!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4041bbe8116cffd3%3A0x7b3461102da5ad34!2sVanadzor%20Technological%20Center!5e0!3m2!1sen!2s!4v1651305510713!5m2!1sen!2s" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    
      <footer>
       <p style="font-size: 9px">
         &copy; Գիտության կոմիտե

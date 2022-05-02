@@ -9,9 +9,8 @@
     <meta name="resource-type" content="document">
     <meta name="distribution" content="global">
     <meta name="KeyWords" content="Conference">
-    <title>Նյութաբանություն ֊ Գիտ․ կոմիտե</title>
+    <title>Ֆիզիկա ֊ Գիտ․ կոմիտե</title>
     <meta charset="utf-8"/>
-
 
 <style>
 
@@ -27,7 +26,7 @@
             <span class="title1">Համահայկական</span> <span class="title2">գիտաժողով</span> <span class="year">2022</span>
         </div>
         <div class="bottom-right">
-            Սեպտեմբերի 22, 2022 <br> Վանաձոր
+            Սեպտեմբերի 20, 2022 <br> Վանաձոր
         </div>
     </div>
 
@@ -52,9 +51,9 @@
 		    <i class="fa fa-caret-down"></i>
 		  </button>
 		  <div class="dropdown-content">
-		    <a href="physics">Ֆիզիկական</a>
+		    <a class="current" href="committee/physics">Ֆիզիկական</a>
 		    <a href="biology">Կենսաբանական</a>
-		    <a class="current" href="material">Նյութաբանական</a>
+		    <a href="material">Նյութաբանական</a>
 		    <a href="material">Հումանիտար</a>
 		    <a href="material">Կազմկոմիտե</a>
 		  </div>
@@ -65,13 +64,21 @@
 
    
 
-    <h2>Նյութաբանություն - Գիտական կոմիտե</h2>
+    <h2>Ֆիզիկա - Գիտական կոմիտե</h2>
     <p>
        <ul>
-	 <li>Արամ Պետրոսյան</li>
-	 <li>Արփինե Հարությունյան</li>
-	 <li>Հեղինե Ղազոյան</li>
-	 <li>Լևոն Թավադյան</li>
+	 <li>Միքայել Խանբեկյան</li>
+	 <li>Արա Սեդրակյան</li>
+	 <li>Արամ Սահարյան</li>
+	 <li>Արմեն Ալլահվերդյան</li>
+	 <li>Պավել Մուժիկյան</li>
+	 <li>Պայծառ Մանթաշյան</li>
+	 <li>Արշակ Վարդանյան</li>
+	 <li>Հրաչ Ասատրյան</li>
+	 <li>Հրաչյա Բաբուջյան</li>
+	 <li>Վահագ Ղուկասյան</li>
+	 <li>Լևոն Գրիգորյան</li>
+	 <li>Մարտին Գրիգորյան</li>
        </ul>  
     </p>
    

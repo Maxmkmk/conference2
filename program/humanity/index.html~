@@ -2,7 +2,7 @@
 <html lang='hy'>
 
 <head>
-    <base href=".">
+    <base href="../..">
     <link rel="shortcut icon" type="image/png" href="assets/favicon.png"/>
     <link rel="stylesheet" type="text/css" media="all" href="assets/main.css"/>
     <meta name="description" content="Conference Template">
@@ -28,7 +28,7 @@
             <span class="title1">Համահայկական</span> <span class="title2">գիտաժողովs</span> <span class="year">2022</span>
         </div>
         <div class="bottom-right">
-            Սեպտեմբերի 22, 2022 <br> Վանաձոր
+            Սեպտեմբերի 20, 2022 <br> Վանաձոր
         </div>
     </div>
 
@@ -79,9 +79,9 @@
     <h2>
       <!--
 	  Գիտաժողովի մասին
-	  -->
-   </h2>
-   <p>
+	-->  
+    </h2>
+    <p>
       <!--
        Թեմատիկ ուղղություններ
 	  -->
