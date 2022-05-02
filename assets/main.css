@@ -207,4 +207,48 @@ footer{font-size:0.875em; margin-top:12em; text-align:center;}
       Note 2: Use "auto" instead of "1fr" for a more compact schedule where height of a slot is not proportional to the session length. Implementing a "compact" shortcode attribute might make sense for this!
       Try 0.5fr for more compact equal rows. I don't quite understand how that works :)
      */
-    
+        
+    grid-template-columns:
+      [times] 4em
+      [track-1-start] 1fr
+      [track-1-end track-2-start] 1fr
+      [track-2-end track-3-start] 1fr
+      [track-3-end track-4-start] 1fr
+      [track-4-end];
+  }
+}
+
+.time-slot {
+  grid-column: times;
+}
+
+.track-slot {
+  display: none; /* hidden on small screens and browsers without grid support */
+}
+
+@supports( display:grid ) {
+  @media screen and (min-width:700px) {
+    .track-slot {
+      display: block;
+      padding: 10px 5px 5px;
+      position: sticky;
+      top: 0;
+      z-index: 1000;
+      background-color: rgba(255,255,255,.9);
+    }
+  }
+}
+
+/* Small-screen & fallback styles */
+.session {
+  margin-bottom:  1em;
+}
+
+@supports( display:grid ) {
+  @media screen and (min-width: 700px) {
+    .session {
+      margin: 0;
+    } 
+  }
+}
+
