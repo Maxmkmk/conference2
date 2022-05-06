@@ -204,6 +204,7 @@ footer{font-size:0.875em; margin-top:12em; text-align:center;}
       /* Note 1:
       Use 24hr time for gridline names for simplicity
 
+
       Note 2: Use "auto" instead of "1fr" for a more compact schedule where height of a slot is not proportional to the session length. Implementing a "compact" shortcode attribute might make sense for this!
       Try 0.5fr for more compact equal rows. I don't quite understand how that works :)
      */
