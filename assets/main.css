@@ -291,6 +291,15 @@ footer{font-size:0.875em; margin-top:12em; text-align:center;}
     rgba(0,0,0,.3) 4px 4px 0;
 }
 
+.session2 {
+  padding: .5em;
+  border-radius: 2px;
+  font-size: 14px;
+  box-shadow:
+    rgba(255,255,255,.6) 1px 1px 0,
+    rgba(0,0,0,.3) 4px 4px 0;
+}
+
 .session-title,
 .session-time,
 .session-track,
@@ -348,6 +357,15 @@ footer{font-size:0.875em; margin-top:12em; text-align:center;}
   justify-content: center;
   align-items: center;
   background: #ccc;
+  color: #000;
+  box-shadow: none;
+}
+
+.track-all2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: rgb(133, 62, 62);
   color: #000;
   box-shadow: none;
 }
