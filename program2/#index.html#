@@ -1,0 +1,286 @@
+<!DOCTYPE html>
+<html lang='hy'>
+
+<head>
+    <base href="..">
+    <link rel="shortcut icon" type="image/png" href="assets/favicon.png"/>
+    <link rel="stylesheet" type="text/css" media="all" href="assets/main.css"/>
+    <meta name="description" content="Conference Template">
+    <meta name="resource-type" content="document">
+    <meta name="distribution" content="global">
+    <meta name="KeyWords" content="Conference">
+    <meta content="text/html;charset=utf-8" http-equiv="Content-Type">
+    <meta content="utf-8" http-equiv="encoding">
+    <title>Համահայկական գիտաժողով</title>
+
+
+<style>
+
+</style>
+    
+</head>
+
+<body>
+
+    <div class="banner">
+        <img src="assets/banner.jpg" alt="Conference Template Banner">
+        <div class="top-left">
+            <span class="title1">Համահայկական</span> <span class="title2">գիտաժողով</span> <span class="year">2022</span>
+        </div>
+        <div class="bottom-right">
+            Սեպտեմբերի 22, 2022 <br> Վանաձոր
+        </div>
+    </div>
+
+    <table class="navigation">
+        <tr>
+            <td class="navigation">
+                <a class="current" title="Conference Home Page" href=".">Սկիզբ</a>
+            </td>
+            <td class="navigation">
+                <a title="Register for the Conference" href="registration">Գրանցում</a>
+            </td>
+            <td class="navigation">
+              <a title="Conference Program" href="program">Ծրագիր</a>
+	    <!--
+	       <div class="dropdown">
+		  <button class="dropbtn">Ծրագիր
+		    <i class="fa fa-caret-down"></i>
+		  </button>
+		  <div class="dropdown-content">
+		    <a href="program/physics">Ֆիզիկական</a>
+		    <a href="program/biology">Կենսաբանական</a>
+		    <a href="program/material">Նյութաբանական</a>
+		    <a href="program/humanitarian">Հումանիտար</a>
+		  </div>
+		</div> 
+  -->
+            </td>
+            <td class="navigation">
+                <a title="Directions to the Conference" href="directions">ՏԵղեկություն</a>
+            </td>
+            <td class="navigation">
+             <!-- <a title="Conference Flyer" href="flyer">Տեղեկություն</a>-->
+	        <div class="dropdown">
+		  <button class="dropbtn">Կոմիտե
+		    <i class="fa fa-caret-down"></i>
+		  </button>
+		  <div class="dropdown-content">
+		    <a href="physics">Ֆիզիկական</a>
+		    <a href="biology">Կենսաբանական</a>
+		    <a href="material">Նյութաբանական</a>
+		    <a href="humanitarian">Հումանիտար</a>
+		    <a href="committee">Կազմկոմիտե</a>
+		  </div>
+		</div> 
+            </td>
+        </tr>
+    </table>
+
+    <h2>
+      <!--
+	  Գիտաժողովի մասին
+	  -->
+   </h2>
+   <p>
+      <!--
+       Թեմատիկ ուղղություններ
+	  -->
+    </p>
+  
+
+    <h2>
+      <!--Կազմակերպիչներ
+	-->
+    </h2>
+    <p>
+     <!--  լոգո
+	-->	   
+    </p>
+      <!-- 
+    <table class="sponsors">
+        <tr>
+            <td class="sponsor">
+                <a href="http://www.eyebleach.me/">
+                    <img src="assets/kitten1.jpg" alt="First Sponsor Name">
+                </a>
+            </td>
+            <td class="sponsor">
+                <a href="http://www.eyebleach.me/">
+                    <img src="assets/kitten2.jpg" alt="Second Sponsor Name" style="width: 80%">
+                </a>
+            </td>
+            <td class="sponsor">
+                <a href="http://www.eyebleach.me/">
+                    <img src="assets/kitten3.jpg" alt="Third Sponsor Name">
+                </a>
+            </td>
+        </tr>
+    </table>
+	-->
+
+    <h2 id="schedule-heading">Ֆիզիկական գիտաժողովի ծրագիր</h2>
+<div class="schedule" aria-labelledby="schedule-heading">
+  
+  <span class="track-slot" aria-hidden="true" style="grid-column: track-1; grid-row: tracks;">Տեսական</span>
+  <span class="track-slot" aria-hidden="true" style="grid-column: track-2; grid-row: tracks;">Պինդ մարմնի</span>
+  <span class="track-slot" aria-hidden="true" style="grid-column: track-3; grid-row: tracks;"></span>
+  <span class="track-slot" aria-hidden="true" style="grid-column: track-4; grid-row: tracks;">Հումանիտար</span>
+  
+  <h2 class="time-slot" style="grid-row: time-0900;">22.09.2022 9:00</h2>
+  
+    <div class="session session-1 track-all" style="grid-column: track-1-start / track-4-end; grid-row: time-0900 / time-0930;">
+    <h3 class="session-title">Բացում</h3>
+    </div>
+
+  <h2 class="time-slot" style="grid-row: time-0930;">22.09.2022 9:30</h2>
+  <div class="session session-2 track-all" style="grid-column: track-1-start / track-4-end; grid-row: time-0930 / time-1015;">
+    <h3 class="session-title"><!--<a href="#">Եթերը և հարաբերականության տեսությունը</a>-->Հարաբերականության տեսություն․ տիեզերքի անցյալը, ներկան և ապագան</h3>
+    <span class="session-time">9:30 - 10:15</span>
+    <span class="session-track">Ֆիզիկական</span>
+    <!-- 
+    <span class="session-presenter">Ա․ Այնշտայն</span>
+-->
+  </div>
+  
+  <div class="session session-2 track-all" style="grid-column: track-1-start / track-4-end; grid-row: time-1015 / time-1100;">
+    <h3 class="session-title"><!--<a href="#">Մարդու և կենդանիների զգացմունքների արտահայտումը</a>-->Մարդու և կենդանիների զգացմունքների արտահայտումը</h3>
+    <span class="session-time">10:15 - 11:00</span>
+    <span class="session-track">Կենսաբանական</span>
+    <!-- 
+    <span class="session-presenter">Չ․ Դարվին</span>
+-->
+  </div>
+
+  <h2 class="time-slot" style="grid-row: time-1100;">22.09.2022 11:00</h2>
+  
+   <div class="session session-3 track-all" style="grid-column: track-1-start / track-4-end; grid-row: time-1100 / time-1130;">
+    <h3 class="session-title"><a href="#">Ընդմիջում</a></h3>
+   </div>
+
+    <div class="session session-4 track-all" style="grid-column: track-1-start / track-4-end; grid-row: time-1130 / time-1215;">
+    <h3 class="session-title"><!--<a href="#">Եթերը և հարաբերականության տեսությունը</a>-->Նոր նյութեր և նրանց կիրառությունը առօրյա կյանքում</h3>
+    <span class="session-time">11:30 - 12:15</span>
+    <span class="session-track">Նյութաբանական</span>
+    <!-- 
+    <span class="session-presenter">Ա․ Այնշտայն</span>
+-->
+  </div>
+  
+  <div class="session session-4 track-all" style="grid-column: track-1-start / track-4-end; grid-row: time-1215 / time-1300;">
+    <h3 class="session-title"><!--<a href="#">Մարդու և կենդանիների զգացմունքների արտահայտումը</a>-->Գիտելիք և մանիպուլյացիա․ հին դարաշրջան մինչև մեր օրերը </h3>
+    <span class="session-time">12:15 - 13:00</span>
+    <span class="session-track">Հումանիտար</span>
+    <!-- 
+    <span class="session-presenter">Չ․ Դարվին</span> 
+-->
+  </div>
+
+  <h2 class="time-slot" style="grid-row: time-1300;">22.09.2022 13:00</h2>
+
+   <div class="session session-5 track-all" style="grid-column: track-1-start / track-4-end; grid-row: time-1300 / time-1400;">
+    <h3 class="session-title"><a href="#">Ընդմիջում</a></h3>
+   </div>
+
+   <h2 class="time-slot" style="grid-row: time-1400;">22.09.2022 14:00</h2>
+
+   <div class="session session-6 track-1" style="grid-column: track-1; grid-row: time-1400 / time-1445;">
+    <h3 class="session-title"><a href="#">Talk Title</a></h3>
+    <span class="session-time">14:00 - 14:45</span>
+    <span class="session-track">Տեսական ֆիզիկա</span>
+    <span class="session-presenter">Գրիգորյան</span>
+  </div>
+  
+  <div class="session session-6 track-1" style="grid-column: track-1; grid-row: time-1445 / time-1530;">
+    <h3 class="session-title"><a href="#">Talk Title</a></h3>
+    <span class="session-time">14:45 - 15:30</span>
+    <span class="session-track">Տեսական ֆիզիկա</span>
+    <span class="session-presenter">Հակոբյան</span>
+  </div>
+
+  <div class="session session-6 track-1" style="grid-column: track-1; grid-row: time-1530 / time-1600;">
+    <h3 class="session-title"><a href="#">Talk Title</a></h3>
+    <span class="session-time">15:30 - 16:00</span>
+    <span class="session-track">Տեսական ֆիզիկա</span>
+    <span class="session-presenter">Գևորգյան</span>
+  </div>
+<!--   
+  <h2 class="time-slot" style="grid-row: time-0830;">8:30am</h2>
+  
+  <div class="session session-5 track-3" style="grid-column: track-3; grid-row: time-0830 / time-1000;">
+    <h3 class="session-title"><a href="#">Talk Title</a></h3>
+    <span class="session-time">8:30 - 10:00</span>
+    <span class="session-track">Track: 1</span>
+    <span class="session-presenter">Presenter</span>
+  </div>
+  
+  <h2 class="time-slot" style="grid-row: time-0900;">9:00am</h2>
+  
+  <div class="session session-6 track-1" style="grid-column: track-1-start / track-2-end; grid-row: time-0900 / time-1000;">
+    <h3 class="session-title"><a href="#">Talk Title</a></h3>
+    <span class="session-time">9:00 - 10:00</span>
+    <span class="session-track">Track: 1 & 2</span>
+    <span class="session-presenter">Presenter</span>
+  </div>
+  
+  <h2 class="time-slot" style="grid-row: time-1000;">10:00am</h2>
+
+  -->
+
+  <!--
+  <h2 class="time-slot" style="grid-row: time-1030;">10:30am</h2>
+  
+  <div class="session session-8 track-1" style="grid-column: track-1; grid-row: time-1030 / time-1130;">
+    <h3 class="session-title"><a href="#">Talk Title</a></h3>
+    <span class="session-time">10:30 - 11:30</span>
+    <span class="session-track">Track: 1</span>
+    <span class="session-presenter">Presenter</span>
+  </div>
+  
+  <div class="session session-9 track-2" style="grid-column: track-2-start / track-3-end; grid-row: time-1030 / time-1100;">
+    <h3 class="session-title"><a href="#">Talk Title</a></h3>
+    <span class="session-time">10:30 - 11:00</span>
+    <span class="session-track">Track: 2 & 3</span>
+    <span class="session-presenter">Presenter</span>
+  </div>
+  
+  <div class="session session-10 track-4" style="grid-column: track-4; grid-row: time-1030 / time-1100;">
+    <h3 class="session-title"><a href="#">Talk Title</a></h3>
+    <span class="session-time">10:30 - 11:00</span>
+    <span class="session-track">Track: 4</span>
+    <span class="session-presenter">Presenter</span>
+  </div>
+  
+  <h2 class="time-slot" style="grid-row: time-1100;">11:00am</h2>
+  
+  <div class="session session-11 track-2" style="grid-column: track-2; grid-row: time-1100 / time-1200;">
+    <h3 class="session-title"><a href="#">Talk Title</a></h3>
+    <span class="session-time">11:00 - 12:00</span>
+    <span class="session-track">Track: 2</span>
+    <span class="session-presenter">Presenter</span>
+  </div>
+  
+  <div class="session session-11 track-3" style="grid-column: track-3; grid-row: time-1100 / time-1200;">
+    <h3 class="session-title"><a href="#">Talk Title</a></h3>
+    <span class="session-time">11:00 - 12:00</span>
+    <span class="session-track">Track: 3</span>
+    <span class="session-presenter">Presenter</span>
+  </div>
+  -->
+</div>
+
+
+     <footer>
+      <p style="font-size: 9px; margin-bottom:0;">
+        &copy; Գիտության կոմիտե
+	</p>
+	<p style="font-size: 6px">
+        </p>
+      <p style="font-size: 6px; margin-top:0; padding-top:0;"> 
+        &nbsp;|&nbsp; <small> Design by <a href="https://github.com/mikepierce">Mike Pierce</a></small>
+	</p>
+    </footer>
+
+</body>
+</html>
+
